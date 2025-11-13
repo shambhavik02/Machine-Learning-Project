@@ -1,4 +1,4 @@
-# Credit Score Prediction using Classification Algorithm
+[# Credit Score Prediction using Classification Algorithm
 
 ###
 
@@ -36,3 +36,5 @@ Project Completed by [Tajamul Khan](https://github.com/tajamulkhann)
 If my work has helped you, I’d truly appreciate your support!
 
 ![Untitled design (10)](https://github.com/user-attachments/assets/127762f6-edae-4bea-989a-5296cf161ed3)
+
+](https://github.com/tajamulkhann/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Projects/Credit%20Score%20Prediction%20using%20Classification%20Algorithm)
