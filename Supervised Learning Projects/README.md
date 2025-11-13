@@ -1,4 +1,6 @@
-Machine Learning Projects Completed by [Tajamul Khan](https://www.linkedin.com/in/tajamulkhann/)
+# Supervised Machine Learning Projects 
+
+Completed by [Tajamul Khan](https://www.linkedin.com/in/tajamulkhann/)
 
 ## Let's Connect <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="30px" style="max-width:100%;">
 
@@ -35,3 +37,4 @@ Machine Learning Projects Completed by [Tajamul Khan](https://www.linkedin.com/i
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 </div>
+
