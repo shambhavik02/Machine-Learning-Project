@@ -93,6 +93,7 @@ AirBnB Stock Price Prediction/
 
 ## 🧑‍💻 Author
 **Tajamul Khan – Data Scientist & AI Engineer**  
+[LinkedIn Profile](https://www.linkedin.com/in/tajamulkhann/)
 
 
 ## Let's Connect <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="30px" style="max-width:100%;">
@@ -130,5 +131,6 @@ AirBnB Stock Price Prediction/
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 </div>
+
 
 
